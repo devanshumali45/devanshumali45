@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devanshumali45
-- 👀 I’m interested in  Artificial intelligence , machine Learning , Competitive Programming.
-- 🌱 I’m currently learning ... Java and Data Structures
+- 👀 I’m interested in  Artificial intelligence , machine Learning , Competitive Programming and Blockchain Development.
+- 🌱 I’m currently learning ... Pyhton ,Data Structures and web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
