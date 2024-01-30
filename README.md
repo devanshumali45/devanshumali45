@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devanshumali45
 - 👀 I’m interested in Machine Learning, Web Development, Competitive Programming, and Blockchain Development.
-- 🌱 I’m currently learning ... Data Structures and Reactjs.
+- 🌱 I’m currently learning ... Java and Spring.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
